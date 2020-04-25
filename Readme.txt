@@ -1,0 +1,1 @@
+This is Simple dice game which i build using flutter for learning purpose.Its a nice guessing game. 
